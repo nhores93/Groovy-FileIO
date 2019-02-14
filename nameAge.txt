@@ -1,0 +1,6 @@
+Michael		15
+Jessica		16
+Christopher	20
+Ashley		18
+Matthew		25
+Emily		22
